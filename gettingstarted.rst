@@ -12,7 +12,7 @@ Registring
 
 .. _Click Here: https://occultation.tug.tubitak.gov.tr/register/
 
-.. image:: ../images/OP_registring.png
+.. image:: images/OP_registring.png
    :alt: OP logo
    :height: 370px
    :align: center
@@ -22,7 +22,7 @@ Registring
 
 2 - **Provide the requested information on the page and submit.**
 
-.. image:: ../images/OP_register_newAccount.png
+.. image:: images/OP_register_newAccount.png
    :alt: OP logo
    :height: 370px
    :width: 370px
@@ -50,7 +50,7 @@ Requested information to register
 
 After submitting, you will need to access your e-mail to confirm the registration, as shown below.
 
-.. image:: ../images/mail_register.png
+.. image:: images/mail_register.png
    :alt: OP logo
    :height: 170px
    :align: center
@@ -64,7 +64,7 @@ Main Page
 
 The main page displays a calendar and events are shown here if exist for each day.
 
-.. image:: ../images/events_page.png
+.. image:: images/events_page.png
    :alt: OP logo
    :height: 370px
    :align: center

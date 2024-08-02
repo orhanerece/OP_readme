@@ -7,7 +7,7 @@ Sometimes collecting observational data and equipment details from observers aff
 For this reason, we aimed to create a common online platform where the needed data will be collected and analyzed
 (producing light curves/photometry) on a single center for ongoing campaign observations.
 
-.. image:: ../images/occultation_visual.jpg
+.. image:: images/occultation_visual.jpg
    :alt: Occultation visual
    :height: 300 px
    :align: center

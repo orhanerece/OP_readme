@@ -7,7 +7,7 @@
 Occultation Portal Documentation
 ================================
 
-.. image:: ../images/occultation_portal_logo_reduc.png
+.. image:: images/occultation_portal_logo_reduc.png
    :alt: OP logo
    :height: 170px
    :align: right
